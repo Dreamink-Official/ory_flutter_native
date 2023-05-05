@@ -1,1 +1,3 @@
-# ory_flutter_native
+# Problems
+- Deserializing error - InitRegisterFlow()
+- How does `updateRegistrationFlowBody` need to look like? RegisterWithEmailAndPassword()
