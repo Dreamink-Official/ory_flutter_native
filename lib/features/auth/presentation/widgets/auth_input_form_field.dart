@@ -36,11 +36,11 @@ class AuthInputFormField extends StatelessWidget {
         ),
         errorBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(7),
-          borderSide: const BorderSide(color: Colors.red),
+          borderSide: BorderSide(color: Colors.red!),
         ),
         focusedErrorBorder: OutlineInputBorder(
           borderRadius: BorderRadius.circular(7),
-          borderSide: const BorderSide(color: Colors.red),
+          borderSide: BorderSide(color: Colors.red!),
         ),
         hintText: hintText,
         hintStyle: customTextTheme.bodyText16,
